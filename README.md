@@ -7,7 +7,7 @@ The website provides information about me, my skills, my education, and how to c
 
 You can view the website here:
 
-https://wakelema.github.io/personal_profile/
+https://wakelema.github.io/personal-profile/
 
 ## 📂 Project Structure
 
