@@ -1,0 +1,25 @@
+body{
+font-family: Arial, sans-serif;
+}
+
+.hero-section{
+background-color:#343a40;
+color:white;
+padding:100px 20px;
+}
+
+.hero-section h1{
+font-size:48px;
+font-weight:bold;
+}
+
+.hero-section p{
+font-size:20px;
+}
+
+.footer{
+background:#212529;
+color:white;
+padding:20px;
+margin-top:50px;
+}
