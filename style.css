@@ -30,3 +30,19 @@ color:white;
 padding:20px;
 margin-top:auto;
 }
+
+.profile-box{
+background:#212529;
+padding:15px;
+border-radius:50%;
+display:inline-block;
+margin-bottom:20px;
+}
+
+.profile-img{
+width:150px;
+height:150px;
+border-radius:50%;
+object-fit:cover;
+border:4px solid white;
+}
